@@ -1,4 +1,4 @@
-# Xeon Protocol dApp
+# Xeon Protocol dApp WORK
 
 [![GitHub license](https://img.shields.io/badge/core_license-BUSL_1.1-blue.svg)](LICENSE) [![GitHub license](https://img.shields.io/badge/incl_license-GPL_3.0-blue.svg)](LICENSE-GPL.md)
 
